@@ -1,0 +1,87 @@
+//
+//  Localizable.strings
+//  TriatlonAthletesDiary
+//
+"lang" = "_en";
+
+//StartVC
+"Start" = "Start";
+
+//MainVC
+"Athlete's Diary" = "Athlete's Diary";
+"Add workout" = "Add workout";
+"Make a training plan" = "Make a training plan";
+
+//AddWorkoutVC
+"Add workout" = "Add workout";
+"Load type" = "Load type";
+"Enter your value" = "Enter your value";
+"Duration" = "Duration";
+"Distance" = "Distance";
+"Notes" = "Notes";
+"Save" = "Save";
+"Error" = "Error";
+"ONLY_DIGITS_ALLOWED" = "Only digits are allowed.";
+"MAX_VALUE_EXCEEDED" = "The value must not exceed %ld.";
+"TYPE_IS_NILL" = "Input type of workout";
+"DURATION_IS_NILL" = "Input duration of workout";
+"DISTANCE_IS_NILL" = "Input distance of workout";
+"m" = "m";
+"min" = "min";
+
+//EditWorkoutVC
+"Edit workout" = "Edit workout";
+"Delete" = "Delete";
+
+//RecommendedPlanVC
+"Recommended plan" = "Recommended plan";
+
+//MakePlanVC
+"The name of the plan" = "The name of the plan";
+"Add at least 1 workout" = "Add at least 1 workout";
+"Input name of plan" = "Input name of plan";
+
+//ViewPlansVC
+"My training plans" = "My training plans";
+
+//EditPlanVC
+"Edit a training plan" = "Edit a training plan";
+
+//StatisticsVC
+"Statistics" = "Statistics";
+"Week" = "Week";
+"Month" = "Month";
+"Year" = "Year";
+"Running" = "Running";
+"Swimming" = "Swimming";
+"Cycling" = "Cycling";
+"t, min" = "t, min";
+"Distance, m" = "Distance, m";
+"pcs." = "pcs.";
+"h."  = "h.";
+"min." = "min.";
+"km." = "km.";
+"m." = "m.";
+
+//NotesVC
+"Training notes" = "Training notes";
+"My workout:" = "My workout:";
+"Type" = "Type";
+"Duration" = "Duration";
+"Distance" = "Distance";
+"Date" = "Date";
+"Swimming" = "Swimming";
+"Cycling" = "Cycling";
+"Running" = "Running";
+"Other" = "Other";
+"N/A" = "N/A";
+"Unknown" = "Unknown";
+"yyyy-MM-dd" = "yyyy-MM-dd";
+
+//ArticlesVC
+"Training recommendations" = "Training recommendations";
+
+//CurrentArticleVC
+"run" = "Running";
+"swim" = "Swimming";
+"cycle" = "Cycling";

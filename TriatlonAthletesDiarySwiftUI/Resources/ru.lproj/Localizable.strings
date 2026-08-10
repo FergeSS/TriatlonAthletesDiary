@@ -1,0 +1,87 @@
+//
+//  Localizable.strings
+//  TriatlonAthletesDiary
+//
+"lang" = "_ru";
+
+//StartVC
+"Start" = "Начать";
+
+//MainVC
+"Athlete's Diary" = "Дневник спортсмена";
+"Add workout" = "Добавить тренировку";
+"Make a training plan" = "Составить план тренировок";
+
+//AddWorkoutVC
+"Add workout" = "Добавить тренировку";
+"Load type" = "Тип загрузки";
+"Enter your value" = "Введите свое значение";
+"Duration" = "Длительность";
+"Distance" = "Дистанция";
+"Notes" = "Заметки";
+"Save" = "Сохранить";
+"Error" = "Ошибка";
+"ONLY_DIGITS_ALLOWED" = "Можно вводить только цифры.";
+"MAX_VALUE_EXCEEDED" = "Значение не должно превышать %ld.";
+"TYPE_IS_NILL" = "Выберите тип тренировки";
+"DURATION_IS_NILL" = "Введите длительность тренировки";
+"DISTANCE_IS_NILL" = "Введите дистанцию тренировки";
+"m" = "м";
+"min" = "мин";
+
+//EditWorkoutVC
+"Edit workout" = "Редактировать тренировку";
+"Delete" = "Удалить";
+
+//RecommendedPlanVC
+"Recommended plan" = "Рекомендованный план";
+
+//MakePlanVC
+"The name of the plan" = "Название плана";
+"Add at least 1 workout" = "Добавьте хотя бы одну тренировку";
+"Input name of plan" = "Введите имя плана";
+
+//ViewPlansVC
+"My training plans" = "Мои тренировочные планы";
+
+//EditPlanVC
+"Edit a training plan" = "Редактировать план тренировок";
+
+//StatisticsVC
+"Statistics" = "Статистика";
+"Week" = "Неделя";
+"Month" = "Месяц";
+"Year" = "Год";
+"Running" = "Бег";
+"Swimming" = "Плавание";
+"Cycling" = "Велосипед";
+"t, min" = "t, мин";
+"Distance, m" = "Дистанция, м";
+"pcs." = "шт.";
+"h."  = "ч.";
+"min." = "мин.";
+"km." = "км.";
+"m." = "м.";
+
+//NotesVC
+"Training notes" = "Заметки о тренировках";
+"My workout:" = "Моя тренировка:";
+"Type" = "Тип";
+"Duration" = "Длительность";
+"Distance" = "Расстояние";
+"Date" = "Дата";
+"Swimming" = "Плавание";
+"Cycling" = "Велосипед";
+"Running" = "Бег";
+"Other" = "Другой тип";
+"N/A" = "Н/Д";
+"Unknown" = "Неизвестно";
+"yyyy-MM-dd" = "dd.MM.yyyy";
+
+//ArticlesVC
+"Training recommendations" = "Рекомендации по тренировкам";
+
+//CurrentArticleVC
+"run" = "Бег";
+"swim" = "Плавание";
+"cycle" = "Велосипед";
